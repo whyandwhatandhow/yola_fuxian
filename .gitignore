@@ -1,0 +1,32 @@
+# dataset
+data/
+datasets/
+
+# model weights
+*.pth
+*.pt
+*.onnx
+
+# training outputs
+work_dirs/
+runs/
+checkpoints/
+
+# logs
+*.log
+
+# python cache
+__pycache__/
+*.pyc
+
+# vscode
+.vscode/
+
+# build
+build/
+dist/
+*.egg-info/
+
+# temp
+tmp/
+temp/
