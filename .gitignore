@@ -30,3 +30,112 @@ dist/
 # temp
 tmp/
 temp/
+# =========================
+
+# Dataset / Data
+
+# =========================
+
+data/
+datasets/
+ultralytics/data/
+
+# =========================
+
+# Training outputs
+
+# =========================
+
+runs/
+ultralytics/runs/
+work_dirs/
+outputs/
+
+# =========================
+
+# Model weights
+
+# =========================
+
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# =========================
+
+# Logs
+
+# =========================
+
+*.log
+logs/
+
+# =========================
+
+# Python cache
+
+# =========================
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# =========================
+
+# Jupyter Notebook
+
+# =========================
+
+.ipynb_checkpoints
+
+# =========================
+
+# Build / Python packaging
+
+# =========================
+
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =========================
+
+# Virtual environments
+
+# =========================
+
+venv/
+env/
+.venv/
+ENV/
+
+# =========================
+
+# IDE
+
+# =========================
+
+.vscode/
+.idea/
+
+# =========================
+
+# OS files
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# Temporary files
+
+# =========================
+
+tmp/
+temp/
+*.swp
+*.swo
